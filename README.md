@@ -10,7 +10,7 @@ The current traffic system is inefficient due to randomness in the TRAFFIC DENSI
 The flow gets choked when the traffic is not in signal’s fixed sequence.
 
 
-![](traffic_3.png)<img src="traffic_3.png" width="600" height="400">
+![](traffic_3.jpg)
 
 As far as we have searched and researched on traffic controlling what we found was that this by far one of the highly precised controlling system on the basis of its complexed algorithm and condition consider for implementations. 
 

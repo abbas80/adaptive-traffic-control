@@ -1,4 +1,4 @@
-# adaptive-traffic-control
+# Adaptive-Traffic-Control
 IOT based solution to traffic congestion and chocking in india.
 
 It is a traffic controlling process which involves all the logical thinking and condition used by a TRAFFIC POLICEMAN i.e. HUMAN BRAIN.
